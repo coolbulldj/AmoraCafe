@@ -1,0 +1,37 @@
+
+
+
+{
+    "drinks" : [
+       {
+        "name" : "item_name",
+        "image-url" : "",
+        "description" : "input description",
+        "price" : "input price"
+        }  
+    ],
+    "morning" : [
+       {
+        "name" : "item_name",
+        "image-url" : "",
+        "description" : "input description",
+        "price" : "input price"
+        }  
+    ],
+    "deserts" : [
+       {
+        "name" : "item_name",
+        "image-url" : "",
+        "description" : "input description",
+        "price" : "input price"
+        }  
+    ],
+    "lunch" : [
+       {
+        "name" : "item_name",
+        "image-url" : "",
+        "description" : "input description",
+        "price" : "input price"
+        }  
+    ]
+}
